@@ -19,4 +19,21 @@ Python · TensorFlow/Keras · TFLite · OpenCV · Raspberry Pi OS
 - [ ] Live camera inference demo
 
 ## Results
-*(will be updated as work progresses)*
+
+### Completed Work
+- Revised foundational Python programming concepts
+- Implemented basic Python scripts and mini programs
+- Practiced:
+  - loops
+  - functions
+  - file handling
+  - dictionaries and lists
+  - exception handling
+  - basic object-oriented programming
+
+### Repository Progress
+- Initialized structured GitHub repository for internship work
+- Organized folders for AI/ML, TensorFlow Lite, OpenCV, and Raspberry Pi development
+
+### Current Status
+Currently progressing from Python fundamentals toward NumPy, Pandas, and machine learning workflows required for edge AI deployment.
